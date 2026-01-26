@@ -19,7 +19,7 @@
 const affan = {
   pronouns: "He" | "Him",
   location: "India 🇮🇳",
-  code: ["dart", "Python", "Java", "kotlin"],
+  code: ["Dart", "Python", "Java", "Kotlin"],
   askMeAbout: ["Application Development", "Android Development", "iOS Development"],
   technologies: {
     frontend: ["Flutter", "Kotlin", "Java"],
@@ -80,22 +80,25 @@ const affan = {
 
 ## GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Affanyousuf26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-         width="560"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanyousuf26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        width="350"
-      />
-    </td>
-  </tr>
-</table>
+<p>I work mostly with Dart/Flutter — many of my repositories are Flutter apps and Dart packages. Below are a few selected repositories and their primary languages.</p>
+
+## Selected repositories
+
+- [enord-software/ensight](https://github.com/enord-software/ensight) — Primary: Dart (97.4%). A Dart-heavy project (tooling / applications).
+- [Affanyousuf26/flutter_cred_profile_ui](https://github.com/Affanyousuf26/flutter_cred_profile_ui) — Primary languages: C++ (38.4%), CMake (31.5%), Dart (22.6%) — Flutter UI project with native components.
+- [Affanyousuf26/Instagram_clone1](https://github.com/Affanyousuf26/Instagram_clone1) — Flutter based Instagram clone to learn required features. Languages: Dart (65.4%).
+- [Affanyousuf26/Edu_questor](https://github.com/Affanyousuf26/Edu_questor) — Dart education app. Languages: Dart (82.1%).
+- [Affanyousuf26/overlay_app](https://github.com/Affanyousuf26/overlay_app) — Mix of Dart and native C++/CMake components.
+- [Affanyousuf26/live_location_tracker](https://github.com/Affanyousuf26/live_location_tracker) — Live location tracking Flutter app.
+- [Affanyousuf26/food_delivery_app](https://github.com/Affanyousuf26/food_delivery_app) — A Food App using Flutter & Firebase. Languages: Dart (76%).
+- [nus/dart_mavlink](https://github.com/nus/dart_mavlink) — Dart package for MAVLink v1/v2 parsing (100% Dart).
+
+
+## Repo language summary
+
+- Dominant language across my projects: Dart (Flutter) — most of my public work is mobile apps and Dart packages.
+- I also use native components (C++, CMake) in some projects and backend tooling with Python/Django.
+
 
 ## Detailed Insights
 
